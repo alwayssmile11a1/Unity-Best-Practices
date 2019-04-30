@@ -1,2 +1,5 @@
 # Unity-Best-Practices
-Some of the best practices for a unity team project
+
+- SerializeField attrubute instead of public variables
+- ScriptableObjects for connecting data into UI instead of singleton
+- Composition architecture instead of big controller classes
